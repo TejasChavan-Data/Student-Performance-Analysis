@@ -59,3 +59,27 @@ The dataset contains the following columns:
 Aspiring Data Analyst | Python | SQL | Excel | Power BI
 
 [LinkedIn](https://linkedin.com/in/tejas-chavan-b4b576395)
+
+## Data Visualizations
+
+### 1. Study Hours vs Final Score
+
+This scatter plot explores the relationship between students' daily study hours and their final examination scores.
+
+![Study Hours vs Final Score](visualizations/study_hours_vs_score.png)
+
+### 2. Attendance Distribution
+
+This histogram displays the distribution of student attendance percentages.
+
+![Attendance Distribution](visualizations/attendance_distribution.png)
+
+### 3. Correlation Heatmap
+
+This heatmap visualizes the correlations between numerical variables in the dataset.
+
+![Correlation Heatmap](visualizations/correlation_heatmap.png)
+
+## Dataset Note
+
+This project currently uses a 20-record sample dataset created for educational and demonstration purposes. The findings should not be interpreted as conclusions about a real student population.
