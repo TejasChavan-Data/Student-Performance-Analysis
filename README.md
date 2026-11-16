@@ -78,6 +78,42 @@ This histogram displays the distribution of student attendance percentages.
 
 This heatmap visualizes the correlations between numerical variables in the dataset.
 
+## Key Findings and Insights
+
+### Statistical Findings
+
+- Average study time: 4.65 hours per day.
+- Average attendance: 78.8%.
+- Average previous examination score: 70.50.
+- Average final examination score: 74.45.
+
+### Correlation Analysis
+
+The correlation analysis identified strong positive relationships with final examination scores:
+
+- Study Hours: 0.980
+- Attendance: 0.990
+- Previous Score: 0.999
+
+### Analytical Observations
+
+1. Study hours show a strong positive relationship with final examination scores.
+2. Attendance also shows a strong positive relationship with final scores.
+3. Previous examination scores have the strongest correlation with final scores in this sample.
+
+### Conclusion
+
+The exploratory analysis highlights relationships between study habits, attendance, previous academic performance and final examination scores.
+
+**Dataset limitation:** This project uses 20 sample records created for educational purposes. The findings are illustrative and should not be generalized to real student populations.
+
+### Future Improvements
+
+- Analyze a larger real-world dataset.
+- Explore additional student performance factors.
+- Build predictive models using Machine Learning.
+- Develop an interactive Power BI dashboard.
+
 ![Correlation Heatmap](visualizations/correlation_heatmap.png)
 
 ## Dataset Note
